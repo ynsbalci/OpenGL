@@ -1,2 +1,13 @@
-﻿  Application.cpp
-  OpenGL.vcxproj -> C:\Users\ynsbalci\Documents\GitHub\OpenGL\Debug\OpenGL.exe
+﻿Build started 9/30/2018 8:55:59 PM.
+     1>Project "C:\Users\ynsbalci\Desktop\Projects\OpenGL_eski\OpenGL\OpenGL.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ynsbalci\Desktop\Projects\OpenGL_eski\Debug\OpenGL.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\ynsbalci\Desktop\Projects\OpenGL_eski\Dependencies\GLFW\lib-vc2015" /LIBPATH:C:\Users\ynsbalci\Desktop\Projects\OpenGL_eski\Dependencies\GLEW\lib glew32s.lib glfw3.lib opengl32.lib User32.lib Gdi32.lib Shell32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\ynsbalci\Desktop\Projects\OpenGL_eski\Debug\OpenGL.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ynsbalci\Desktop\Projects\OpenGL_eski\Debug\OpenGL.lib" /MACHINE:X86 Debug\Application.obj
+     1>LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\ynsbalci\Desktop\Projects\OpenGL_eski\Debug\vc120.pdb'; linking object as if no debug info
+         OpenGL.vcxproj -> C:\Users\ynsbalci\Desktop\Projects\OpenGL_eski\Debug\OpenGL.exe
+     1>Done Building Project "C:\Users\ynsbalci\Desktop\Projects\OpenGL_eski\OpenGL\OpenGL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.55
